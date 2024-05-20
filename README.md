@@ -1,4 +1,4 @@
 # hello-world
-This repository is for practising the GitHub Flow
-My name is Rio
-I like motorcycles
+This repository is for practising the GitHub Flow.
+My name is Rio.
+I like motorcycles.
